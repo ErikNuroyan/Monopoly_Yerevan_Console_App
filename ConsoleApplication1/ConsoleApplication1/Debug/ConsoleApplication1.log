@@ -1,0 +1,37 @@
+﻿  SetOfRules.cpp
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(133): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(195): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(214): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(231): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(247): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(279): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(295): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(311): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(328): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(345): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(367): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(384): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(419): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(436): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(455): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(471): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(488): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(504): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(520): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(536): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(552): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(568): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(585): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\setofrules.cpp(602): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Board.cpp
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\board.cpp(106): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\erik\desktop\project checkers\consoleapplication1\consoleapplication1\board.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\Erik\Desktop\Project Checkers\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Erik\Desktop\Project Checkers\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
