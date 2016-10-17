@@ -649,7 +649,7 @@ void Rules::OrderOfSteps(board*TheBoard,player*player1, player*player2) {
 		while (player1->ReturnBalance() > 0 && player2->ReturnBalance() > 0) {
 		loop1:
 			cout << player2->NameReturn() << " will throw the dice!" << endl;
-			cout << "Player's balance is:" << player2->ReturnBalance() << endl;//  To Be Deleted later 
+			cout << "Player's balance is:" << player2->ReturnBalance() << endl; 
 			cout << "Enter t to throw the dice:";
 			cin >> t;
 			if (t == 'T' || t == 't') {
@@ -665,7 +665,7 @@ void Rules::OrderOfSteps(board*TheBoard,player*player1, player*player2) {
 			}
 		loop2:
 			cout << player1->NameReturn() << " will throw the dice!" << endl;
-			cout << "Player's balance is:" << player1->ReturnBalance() << endl;//To BE Deleted later
+			cout << "Player's balance is:" << player1->ReturnBalance() << endl;
 			cout << "Enter t to throw the dice:";
 			cin >> t;
 			if (t == 'T' || t == 't') {
@@ -694,7 +694,7 @@ void Rules::OrderOfSteps(board*TheBoard,player*player1, player*player2) {
 		while (player1->ReturnBalance() != 0 && player2->ReturnBalance() != 0) {
 			loop3:
 			cout << player1->NameReturn() << " will throw the dice!" << endl;
-			cout << "Player's balance is:" << player1->ReturnBalance() << endl;//To BE Deleted later
+			cout << "Player's balance is:" << player1->ReturnBalance() << endl;
 			cout << "Enter t to throw the dice:";
 			cin >> t;
 			if (t == 'T' || t == 't') {
@@ -712,7 +712,7 @@ void Rules::OrderOfSteps(board*TheBoard,player*player1, player*player2) {
 			
 			loop4:
 			cout << player2->NameReturn() << " will throw the dice!" << endl;
-			cout << "Player's balance is:" << player2->ReturnBalance() << endl;//  To Be Deleted later
+			cout << "Player's balance is:" << player2->ReturnBalance() << endl;
 			cout << "Enter t to throw the dice:";
 			cin >> t;
 			if (t == 'T' || t == 't') {
