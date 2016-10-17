@@ -738,4 +738,3 @@ void Rules::OrderOfSteps(board*TheBoard,player*player1, player*player2) {
 
 
 }
-//Bugs Bugs Bugs Bugs Fix them
